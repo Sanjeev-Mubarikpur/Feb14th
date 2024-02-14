@@ -10,6 +10,7 @@ public class Animal {
 			System.out.println("This is the cow method");
 			System.out.println("This is the new update");
 			System.out.println("This is for pull command practice");
+			System.out.println("This is for the merge command");
 		}
 		@Test
 		public void tiger() {
