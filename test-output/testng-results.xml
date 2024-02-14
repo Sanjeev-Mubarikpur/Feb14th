@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-06T12:55:38 EST" name="Suite" finished-at="2024-02-06T12:56:03 EST" duration-ms="24826">
+    <groups>
+    </groups>
+    <test started-at="2024-02-06T12:55:38 EST" name="Test" finished-at="2024-02-06T12:56:03 EST" duration-ms="24826">
+      <class name="Dec_20.Vegitables">
+        <test-method signature="bringle()[pri:0, instance:Dec_20.Vegitables@37d4349f]" started-at="2024-02-06T12:55:39 EST" name="bringle" finished-at="2024-02-06T12:55:39 EST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bringle -->
+        <test-method signature="potato()[pri:0, instance:Dec_20.Vegitables@37d4349f]" started-at="2024-02-06T12:55:39 EST" name="potato" finished-at="2024-02-06T12:55:39 EST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- potato -->
+        <test-method signature="tomato()[pri:0, instance:Dec_20.Vegitables@37d4349f]" started-at="2024-02-06T12:55:39 EST" name="tomato" finished-at="2024-02-06T12:55:39 EST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tomato -->
+      </class> <!-- Dec_20.Vegitables -->
+      <class name="Dec_21.Animal">
+        <test-method signature="cow()[pri:0, instance:Dec_21.Animal@550dbc7a]" started-at="2024-02-06T12:55:50 EST" name="cow" finished-at="2024-02-06T12:55:50 EST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cow -->
+        <test-method signature="tiger()[pri:0, instance:Dec_21.Animal@550dbc7a]" started-at="2024-02-06T12:55:50 EST" name="tiger" finished-at="2024-02-06T12:55:50 EST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tiger -->
+      </class> <!-- Dec_21.Animal -->
+      <class name="Dec_20.Fruits">
+        <test-method signature="apple()[pri:0, instance:Dec_20.Fruits@36916eb0]" started-at="2024-02-06T12:56:03 EST" name="apple" finished-at="2024-02-06T12:56:03 EST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apple -->
+        <test-method signature="mango()[pri:0, instance:Dec_20.Fruits@36916eb0]" started-at="2024-02-06T12:56:03 EST" name="mango" finished-at="2024-02-06T12:56:03 EST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mango -->
+        <test-method signature="orange()[pri:0, instance:Dec_20.Fruits@36916eb0]" started-at="2024-02-06T12:56:03 EST" name="orange" finished-at="2024-02-06T12:56:03 EST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orange -->
+      </class> <!-- Dec_20.Fruits -->
+      <class name="Dec_12.Practice_TestNG.FeedFileUpload">
+        <test-method signature="ChromeD()[pri:0, instance:Dec_12.Practice_TestNG.FeedFileUpload@66f57048]" started-at="2024-02-06T12:55:39 EST" name="ChromeD" finished-at="2024-02-06T12:55:50 EST" duration-ms="11006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChromeD -->
+      </class> <!-- Dec_12.Practice_TestNG.FeedFileUpload -->
+      <class name="Dec_12.Practice_TestNG.EdgeBrowser">
+        <test-method signature="EdgeD()[pri:0, instance:Dec_12.Practice_TestNG.EdgeBrowser@21282ed8]" started-at="2024-02-06T12:55:50 EST" name="EdgeD" finished-at="2024-02-06T12:56:03 EST" duration-ms="13648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdgeD -->
+      </class> <!-- Dec_12.Practice_TestNG.EdgeBrowser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
